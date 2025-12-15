@@ -37,7 +37,7 @@ Building scalable systems, data pipelines, and full-stack applications.
 
 ## Featured Projects
 
-### [FinFlow Trading Platform](https://github.com/troybllo) *(In Development)*
+### [FinFlow Trading Platform](https://github.com/troybllo/Finflow-Trading) *(In Development)*
 Production-grade trading and finance application featuring real-time data processing, portfolio management, and analytics dashboard.
 > `React` `TypeScript` `Go` `Python` `AWS` `Kafka`
 
