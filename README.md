@@ -57,9 +57,9 @@ Full-stack recipe management application with search, filtering, and user collec
 
 ## Currently
 
-- 🔨 Building **FinFlow** — a full-stack trading platform with real-time analytics
-- 📚 Deepening expertise in **system design**, **distributed systems**, and **cloud architecture**
-- 🎯 Seeking **New Grad SWE** opportunities in fintech, data engineering, or full-stack development
+- Building **FinFlow** — a full-stack trading platform with real-time analytics
+- Deepening expertise in **system design**, **distributed systems**, and **cloud architecture**
+- Seeking **New Grad SWE** opportunities in fintech, data engineering, or full-stack development
 
 ---
 
