@@ -64,12 +64,13 @@ Full-stack recipe management application with search, filtering, and user collec
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=troybllo&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800&v=1" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=troybllo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&v=1" height="165"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=troybllo&layout=compact&hide_border=true&cache_seconds=1800&v=1" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=troybllo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=troybllo&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=troybllo&theme=tokyonight&hide_border=true"/>
 </p>
+
 
